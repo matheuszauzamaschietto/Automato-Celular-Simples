@@ -1,0 +1,14 @@
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\bin\Debug\net8.0\AutomatoCelular.exe
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\bin\Debug\net8.0\AutomatoCelular.deps.json
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\bin\Debug\net8.0\AutomatoCelular.runtimeconfig.json
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\bin\Debug\net8.0\AutomatoCelular.dll
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\bin\Debug\net8.0\AutomatoCelular.pdb
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.AssemblyInfoInputs.cache
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.AssemblyInfo.cs
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.csproj.CoreCompileInputs.cache
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.dll
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\refint\AutomatoCelular.dll
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.pdb
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\AutomatoCelular.genruntimeconfig.cache
+C:\Users\MatheusZauza\Desktop\AutomatoCelular\obj\Debug\net8.0\ref\AutomatoCelular.dll
